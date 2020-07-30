@@ -10,7 +10,7 @@ Simple and Beautiful App that changes the background color of an image when clic
 
 
 ## Get Started 🦄
-* Play Around the Website [link here]('https://joloutherookie.github.io/ColorFlipper/')
+* Play Around the Website [link here](https://joloutherookie.github.io/ColorFlipper/)
 * If you want Clone the Repository
 ```
 https://github.com/JolouTheRookie/ColorFlipper.git
@@ -19,10 +19,10 @@ https://github.com/JolouTheRookie/ColorFlipper.git
 * Change or Improve the Code
 
 ## Resources 📚
-* Idea of this Project - [JS Projects || John Smilga ]('https://www.vanillajavascriptprojects.com/')
-* Design of the Background - [SVG Backgrounds]('https://www.svgbackgrounds.com/')
-* "Color Flipper" Lobster Font Style - [Google Fonts]('https://fonts.google.com/')
-* For Emojis Design - [Emojipedia]('https://emojipedia.org/')
+* Idea of this Project - [JS Projects || John Smilga](https://www.vanillajavascriptprojects.com/)
+* Design of the Background - [SVG Backgrounds](https://www.svgbackgrounds.com/)
+* "Color Flipper" Lobster Font Style - [Google Fonts](https://fonts.google.com/)
+* For Emojis Design - [Emojipedia](https://emojipedia.org/)
 
 ## Contribution 🔥
 
