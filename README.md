@@ -12,9 +12,9 @@ Simple and Beautiful App that changes the background color of an image when clic
 ## Get Started 🦄
 * Play Around the Website [link here]('https://joloutherookie.github.io/ColorFlipper/')
 * If you want Clone the Repository
-``
-https://github.com/JolouTheRookie/Calculator.git
-``
+```
+https://github.com/JolouTheRookie/ColorFlipper.git
+```
 * Study and Analyze the Code
 * Change or Improve the Code
 
